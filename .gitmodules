@@ -1,0 +1,4 @@
+[submodule "sigverse_ros_package"]
+	path = sigverse_ros_package
+	url = https://github.com/SIGVerse/sigverse_ros_package.git
+	branch = master
